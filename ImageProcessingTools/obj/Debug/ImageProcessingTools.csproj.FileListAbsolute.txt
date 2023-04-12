@@ -1,0 +1,6 @@
+D:\Example\Task\FingerprintAnalyzer\ImageProcessingTools\bin\Debug\ImageProcessingTools.dll
+D:\Example\Task\FingerprintAnalyzer\ImageProcessingTools\bin\Debug\ImageProcessingTools.pdb
+D:\Example\Task\FingerprintAnalyzer\ImageProcessingTools\obj\Debug\ImageProcessingTools.csproj.AssemblyReference.cache
+D:\Example\Task\FingerprintAnalyzer\ImageProcessingTools\obj\Debug\ImageProcessingTools.csproj.CoreCompileInputs.cache
+D:\Example\Task\FingerprintAnalyzer\ImageProcessingTools\obj\Debug\ImageProcessingTools.dll
+D:\Example\Task\FingerprintAnalyzer\ImageProcessingTools\obj\Debug\ImageProcessingTools.pdb

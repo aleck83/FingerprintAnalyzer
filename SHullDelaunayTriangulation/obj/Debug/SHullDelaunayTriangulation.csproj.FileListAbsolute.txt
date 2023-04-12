@@ -1,0 +1,7 @@
+D:\Example\Task\FingerprintAnalyzer\SHullDelaunayTriangulation\bin\Debug\SHullDelaunayTriangulation.dll.config
+D:\Example\Task\FingerprintAnalyzer\SHullDelaunayTriangulation\bin\Debug\SHullDelaunayTriangulation.dll
+D:\Example\Task\FingerprintAnalyzer\SHullDelaunayTriangulation\bin\Debug\SHullDelaunayTriangulation.pdb
+D:\Example\Task\FingerprintAnalyzer\SHullDelaunayTriangulation\obj\Debug\SHullDelaunayTriangulation.csproj.AssemblyReference.cache
+D:\Example\Task\FingerprintAnalyzer\SHullDelaunayTriangulation\obj\Debug\SHullDelaunayTriangulation.csproj.CoreCompileInputs.cache
+D:\Example\Task\FingerprintAnalyzer\SHullDelaunayTriangulation\obj\Debug\SHullDelaunayTriangulation.dll
+D:\Example\Task\FingerprintAnalyzer\SHullDelaunayTriangulation\obj\Debug\SHullDelaunayTriangulation.pdb

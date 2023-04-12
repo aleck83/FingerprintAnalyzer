@@ -1,0 +1,176 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\FingerprintAnalyzer\\FingerprintAnalyzer\\FingerprintAnalyzer.csproj": {}
+  },
+  "projects": {
+    "D:\\FingerprintAnalyzer\\FingerprintAnalyzer\\FingerprintAnalyzer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\FingerprintAnalyzer\\FingerprintAnalyzer\\FingerprintAnalyzer.csproj",
+        "projectName": "FingerprintAnalyzer",
+        "projectPath": "D:\\FingerprintAnalyzer\\FingerprintAnalyzer\\FingerprintAnalyzer.csproj",
+        "packagesPath": "C:\\Users\\aleck\\.nuget\\packages\\",
+        "outputPath": "D:\\FingerprintAnalyzer\\FingerprintAnalyzer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aleck\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\FingerprintAnalyzer\\FR.Core\\FR.Core.csproj": {
+                "projectPath": "D:\\FingerprintAnalyzer\\FR.Core\\FR.Core.csproj"
+              },
+              "D:\\FingerprintAnalyzer\\FR.Ratha1995\\FR.Ratha1995.csproj": {
+                "projectPath": "D:\\FingerprintAnalyzer\\FR.Ratha1995\\FR.Ratha1995.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "SixLabors.ImageSharp": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.IO": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.15, 6.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.15, 6.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.15, 6.0.15]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.15, 6.0.15]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\FingerprintAnalyzer\\FR.Core\\FR.Core.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\FingerprintAnalyzer\\FR.Core\\FR.Core.csproj",
+        "projectName": "FR.Core",
+        "projectPath": "D:\\FingerprintAnalyzer\\FR.Core\\FR.Core.csproj",
+        "frameworks": {
+          "net20": {
+            "projectReferences": {
+              "D:\\FingerprintAnalyzer\\SHullDelaunayTriangulation\\SHullDelaunayTriangulation.csproj": {
+                "projectPath": "D:\\FingerprintAnalyzer\\SHullDelaunayTriangulation\\SHullDelaunayTriangulation.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net20": {}
+      }
+    },
+    "D:\\FingerprintAnalyzer\\FR.Ratha1995\\FR.Ratha1995.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\FingerprintAnalyzer\\FR.Ratha1995\\FR.Ratha1995.csproj",
+        "projectName": "FR.Ratha1995",
+        "projectPath": "D:\\FingerprintAnalyzer\\FR.Ratha1995\\FR.Ratha1995.csproj",
+        "frameworks": {
+          "net20": {
+            "projectReferences": {
+              "D:\\FingerprintAnalyzer\\FR.Core\\FR.Core.csproj": {
+                "projectPath": "D:\\FingerprintAnalyzer\\FR.Core\\FR.Core.csproj"
+              },
+              "D:\\FingerprintAnalyzer\\ImageProcessingTools\\ImageProcessingTools.csproj": {
+                "projectPath": "D:\\FingerprintAnalyzer\\ImageProcessingTools\\ImageProcessingTools.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net20": {}
+      }
+    },
+    "D:\\FingerprintAnalyzer\\ImageProcessingTools\\ImageProcessingTools.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\FingerprintAnalyzer\\ImageProcessingTools\\ImageProcessingTools.csproj",
+        "projectName": "ImageProcessingTools",
+        "projectPath": "D:\\FingerprintAnalyzer\\ImageProcessingTools\\ImageProcessingTools.csproj",
+        "frameworks": {
+          "net20": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net20": {}
+      }
+    },
+    "D:\\FingerprintAnalyzer\\SHullDelaunayTriangulation\\SHullDelaunayTriangulation.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\FingerprintAnalyzer\\SHullDelaunayTriangulation\\SHullDelaunayTriangulation.csproj",
+        "projectName": "SHullDelaunayTriangulation",
+        "projectPath": "D:\\FingerprintAnalyzer\\SHullDelaunayTriangulation\\SHullDelaunayTriangulation.csproj",
+        "frameworks": {
+          "net20": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net20": {}
+      }
+    }
+  }
+}

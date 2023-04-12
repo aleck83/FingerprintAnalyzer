@@ -1,0 +1,7 @@
+D:\Example\Task\FingerprintAnalyzer\FR.Ratha1995\obj\Debug\FR.Ratha1995.csproj.AssemblyReference.cache
+D:\Example\Task\FingerprintAnalyzer\FR.Ratha1995\obj\Debug\FR.Ratha1995.csproj.CoreCompileInputs.cache
+D:\Example\Task\FingerprintAnalyzer\bin\Debug\FR.Ratha1995.dll
+D:\Example\Task\FingerprintAnalyzer\bin\Debug\FR.Ratha1995.pdb
+D:\Example\Task\FingerprintAnalyzer\FR.Ratha1995\obj\Debug\FR.Ratha1995.csproj.CopyComplete
+D:\Example\Task\FingerprintAnalyzer\FR.Ratha1995\obj\Debug\FR.Ratha1995.dll
+D:\Example\Task\FingerprintAnalyzer\FR.Ratha1995\obj\Debug\FR.Ratha1995.pdb

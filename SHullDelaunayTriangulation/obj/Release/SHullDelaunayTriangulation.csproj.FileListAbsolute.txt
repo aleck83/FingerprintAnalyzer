@@ -1,0 +1,7 @@
+D:\Dev\FingerprintRecognition v2.2\SHullDelaunayTriangulation\bin\Release\SHullDelaunayTriangulation.dll.config
+D:\Dev\FingerprintRecognition v2.2\SHullDelaunayTriangulation\bin\Release\SHullDelaunayTriangulation.dll
+D:\Dev\FingerprintRecognition v2.2\SHullDelaunayTriangulation\bin\Release\SHullDelaunayTriangulation.pdb
+D:\Dev\FingerprintRecognition v2.2\SHullDelaunayTriangulation\obj\Release\SHullDelaunayTriangulation.csproj.AssemblyReference.cache
+D:\Dev\FingerprintRecognition v2.2\SHullDelaunayTriangulation\obj\Release\SHullDelaunayTriangulation.csproj.CoreCompileInputs.cache
+D:\Dev\FingerprintRecognition v2.2\SHullDelaunayTriangulation\obj\Release\SHullDelaunayTriangulation.dll
+D:\Dev\FingerprintRecognition v2.2\SHullDelaunayTriangulation\obj\Release\SHullDelaunayTriangulation.pdb
